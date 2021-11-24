@@ -32,17 +32,29 @@
   <img align="center" alt="html5" src="https://camo.githubusercontent.com/dae860574a50bc2b8b1f94a775bd58c2c2ab63db347ea751aca135b71863ed52/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5653436f64652d3030384238423f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d626c7565" />
   <img align="center" alt="css" src="https://camo.githubusercontent.com/6476361b7bd6884011dcd60acfa1681d0ec62a9c580cc85dd487be5b28ac77a7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875625f4465736b746f702d677261793f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d707572706c65" />
 
+  <img align="center" alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+
 
 </div><br/>
 
 
+</div><br/>
+
+
+## 🚧 | Sobre mim / Scripts
+
+<div style="display: inline_block">
+
 Um jovem de 15 anos que encontrou seu lugar no mundo atráves da programação.
 
-### Últimos videos:
+
+
+### Videos dos Scripts:
 - [Sistema de Inventario ](https://www.youtube.com/watch?v=mypVt1r-SUc)<br/>
 - [Sistema AutoLogin](https://www.youtube.com/watch?v=yBe7aaTli8M)<br/>
 - [Sistema de Porte de Armas](https://www.youtube.com/watch?v=eqBA-zhUnjg&t=4s)<br/>
 - [Sistema de Auto Escola](https://www.youtube.com/watch?v=RmDBw404RPs&t=7s)<br/>
 - [Sistema de Desmanche Free](https://www.youtube.com/watch?v=WptQeu4XKqY&t=250s)<br/>
+</div><br/>
 
 README.md feito por Vieira#0969
